@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">iTune Api</string>
+    <string name="search_song_here">Search Song Here</string>
+</resources>
